@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey :P
 
 <!--
 **glowstvrs/glowstvrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there:)
+- My real name is Daniel
+- Rn I'm doing fun hacking stuff
+- I'm still a student, but it has nothing to do with this
+- I'm kinda bad a coding
+- Ask me about TOR, Privacy Tips, and more and I'll try and help:)
+- My email is glowstvrs@pm.me and my Discord is Glowstvrs#2772
+- he/him/himself/his/it/its
+- The password "password" has been seen 9,636,205 according to haveibeenpwned.com
